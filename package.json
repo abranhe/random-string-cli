@@ -1,0 +1,36 @@
+{
+  "name": "random-string-cli",
+  "version": "1.0.0",
+  "description": "random-string-cli: 🌀 Random String Generator",
+  "bin": {
+    "random-string": "cli.js"
+  },
+  "scripts": {
+    "test": "echo Passing"
+  },
+  "repository": "abranhe/random-string-cli",
+  "author": {
+    "name": "Abraham Hernandez",
+    "email": "abraham@abranhe.com",
+    "url": "https://abranhe.com"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "string",
+    "random-string-cli",
+    "random",
+    "random-string",
+    "rand"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/random-string-cli/issues"
+  },
+  "homepage": "https://p.abranhe.com/random-string-cli",
+  "dependencies": {
+    "meow": "^5.0.0",
+    "r4nd0mstr1ng": "^2.0.0"
+  }
+}
